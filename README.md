@@ -1,3 +1,12 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![Build Status](https://img.shields.io/badge/PINN-yes-green)
+![Build Status](https://img.shields.io/badge/FDM-yes-blue)
+![Contributions](https://img.shields.io/badge/contributions-welcome-gold)
+![GitHub issues](https://img.shields.io/github/issues/DennisWayo/3D-PINN-FDM-FracEnergyBalance)
+![GitHub forks](https://img.shields.io/github/forks/DennisWayo/3D-PINN-FDM-FracEnergyBalance)
+![GitHub stars](https://img.shields.io/github/stars/DennisWayo/3D-PINN-FDM-FracEnergyBalance)
+
+
 ## Extending Physics-Informed Neural Networks for Error-Corrected Finite Difference Energy Balance Modeling in 3D Hydraulic Fracture Propagation
 
 This repository contains the **Physics-Informed Neural Network (PINN)-enhanced Finite Difference Method (FDM)** implementation for modeling **energy balance in hydraulic fracture propagation**. The study explores **1D, 2D, and 3D formulations** to improve numerical accuracy and computational efficiency in fracture simulations.
