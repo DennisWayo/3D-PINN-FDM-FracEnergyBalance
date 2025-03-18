@@ -60,4 +60,4 @@ If you use this work, please cite:
 Contributions are welcome! Feel free to open an issue or submit a pull request.
 
 ### Contact
-For questions, reach out via email or GitHub discussions.
+For questions, reach out via email (iwayoden@gmail.com) or GitHub discussions.
