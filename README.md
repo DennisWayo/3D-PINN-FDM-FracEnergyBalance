@@ -19,7 +19,6 @@ The PINN-enhanced FDM framework integrates physics constraints into deep learnin
 2. **Finite Difference Approximation**: Discretizing the energy balance equation for numerical solutions.
 3. **PINN Training**: Learning correction terms using physics-informed loss functions.
 4. **Performance Evaluation**: Assessing model accuracy via **Mean Squared Error (MSE)** and **error reduction metrics**.
-5. **Visualization**: Contour maps, 3D surface plots, and animated training progress.
 
 ### Results
 - **MSE Reduction**: 
@@ -28,6 +27,8 @@ The PINN-enhanced FDM framework integrates physics constraints into deep learnin
   - **3D PINN**: 0.7593  
 - **Optimal Training Setup**: Batch size **128**, 3-layer network.
 - **Computational Efficiency**: PINN reduces oscillatory behavior near fracture tips while maintaining stability.
+
+![pinn_comparison_animation (2)](https://github.com/user-attachments/assets/d4f4b678-c846-4713-b4fa-22d7a7d6fe36)
 
 ### Running the Code
 To train the **1D, 2D, and 3D PINN models**, execute:
